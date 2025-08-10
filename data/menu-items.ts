@@ -156,7 +156,7 @@ export const menuItems: MenuItem[] = [
     name: "Berry Bliss",
     description: "Mixed berries and sparkling water.",
     price: 140,
-    image: "/berry-bliss-mocktail-image.png", // Updated image
+    image: "/berry-bliss-mocktail-image.png",
     category: "mocktails",
     dietary: ["vegan"],
   },
@@ -169,6 +169,44 @@ export const menuItems: MenuItem[] = [
     category: "mocktails",
     dietary: ["vegan"],
   },
+
+  // Desserts
+  {
+    id: "19",
+    name: "Chocolate Lava Cake",
+    description: "Warm chocolate cake with a molten center.",
+    price: 220,
+    image: "/chocolate-lava-cake.png",
+    category: "desserts",
+    dietary: ["vegetarian"],
+  },
+  {
+    id: "20",
+    name: "Tiramisu",
+    description: "Classic Italian coffee-flavored dessert.",
+    price: 240,
+    image: "/tiramisu-dessert.png",
+    category: "desserts",
+    dietary: ["vegetarian"],
+  },
+  {
+    id: "21",
+    name: "Strawberry Cheesecake",
+    description: "Creamy cheesecake with fresh strawberry topping.",
+    price: 230,
+    image: "/strawberry-cheesecake.png",
+    category: "desserts",
+    dietary: ["vegetarian"],
+  },
+  {
+    id: "22",
+    name: "Vegan Chocolate Mousse",
+    description: "Rich dairy-free chocolate mousse.",
+    price: 200,
+    image: "/vegan-chocolate-mousse.png",
+    category: "desserts",
+    dietary: ["vegan", "vegetarian"],
+  },
 ]
 
 export const categories = [
@@ -176,4 +214,5 @@ export const categories = [
   { id: "lunch", name: "LUNCH", time: "12PM - 3PM" },
   { id: "dinner", name: "DINNER", time: "6PM - 11PM" },
   { id: "mocktails", name: "MOCKTAILS", time: "" },
+  { id: "desserts", name: "DESSERTS", time: "" },
 ]
