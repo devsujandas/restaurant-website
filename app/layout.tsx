@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Restaurant - Fine Dining Experience",
   description: "Experience luxury dining at Restaurant. Browse our menu and order directly from your table.",
-    generator: 'v0.dev'
+  
 }
 
 export default function RootLayout({

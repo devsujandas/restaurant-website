@@ -50,7 +50,7 @@ export default function ContactPage() {
                   <div>
                     <p className="text-white font-medium text-sm md:text-base">Address</p>
                     <p className="text-gray-400 text-xs md:text-sm">
-                      123 Gourmet Street, Culinary District, Mumbai 400001
+                      Kolkata, WB, 700001
                     </p>
                   </div>
                 </div>
