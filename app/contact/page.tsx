@@ -50,7 +50,7 @@ export default function ContactPage() {
                   <div>
                     <p className="text-white font-medium text-sm md:text-base">Address</p>
                     <p className="text-gray-400 text-xs md:text-sm">
-                      Kolkata, WB, 700001
+                       Kolkata, West Bengal – 700001, India
                     </p>
                   </div>
                 </div>
