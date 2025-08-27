@@ -30,14 +30,6 @@
 
 ---
 
-## Built With
-
-- **HTML5**  
-- **CSS3 / Tailwind CSS**  
-- **JavaScript**  
-
----
-
 ##  Contact
 
 For feedback, collaborations, or business inquiries:
